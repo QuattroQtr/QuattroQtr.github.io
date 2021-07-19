@@ -1,10 +1,10 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(27, 187, 67);
 }
 
 .blocks {
     width: 200px;
     height: 100px;
-    border: 2px solid red;
+    border: 2px solid rgb(223, 9, 9);
     float: left;
 }
