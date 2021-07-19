@@ -8,10 +8,3 @@ body {
     border: 2px solid red;
     float: left;
 }
-
-.blocks2 {
-    background-color: blue;
-    width: 100px;
-    height: 50px;
-    border: 2px solid rgb(117, 68, 253);
-}
