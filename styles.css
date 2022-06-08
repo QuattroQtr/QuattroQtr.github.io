@@ -74,9 +74,6 @@ a:visited {
   color: rgb(158, 69, 143);
 }
 
-#input {
-  
-  font: 20px 'Comic Neue', cursive, sans-serif;
-  
+input {
+  color: black;
 }
-
